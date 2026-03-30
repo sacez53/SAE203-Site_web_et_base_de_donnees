@@ -6,23 +6,18 @@ Liste des tâches à faire ou à compléter dans le projet.
 
 ## À faire
 
-- [  ] ajouter la tache ici
-- [ ] ajouter la tache ici
-- [ ] ajouter la tache ici
-- [ ] ajouter la tache ici
+- [ ] Choisir le type de radio que on vas prendre
+- [ ] Faire un moodboard d'interface et d'idées
+- [ ]
 
 ---
 
 ## En cours
 
-- [ ] ajouter la tache ici
-- [ ] ajouter la tache ici
-- [ ] ajouter la tache ici
+- [ ] Imaginer la structure de la base de données
 
 ---
 
 ## À vérifier / corriger
 
-- [ ] ajouter la tache ici
-- [ ] ajouter la tache ici
-- [ ] ajouter la tache ici
+- 
