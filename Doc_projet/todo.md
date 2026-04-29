@@ -8,7 +8,7 @@ Liste des tâches à faire ou à compléter dans le projet.
 
 - [ ] Choisir le type de radio que on vas prendre
 - [ ] Faire un moodboard d'interface et d'idées
-- [ ]
+- [ ] 
 
 ---
 
