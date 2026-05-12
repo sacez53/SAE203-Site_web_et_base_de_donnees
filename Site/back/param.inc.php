@@ -1,0 +1,10 @@
+<?php
+if(!defined("MYHOST"))
+    define("MYHOST","localhost");
+if(!defined("MYUSER"))
+    define("MYUSER","mmi1_i2502475");
+if(!defined("MYPASS"))
+    define("MYPASS","4339AF");
+if(!defined("MYDB"))
+    define("MYDB","mmi1_i2502475");
+?>
